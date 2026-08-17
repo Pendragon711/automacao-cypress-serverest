@@ -17,7 +17,8 @@ Início da construção do script definindo a URL alvo. O comando `cy.visit()` i
 ### 2. Mapeamento de Elementos e Ações (`cy.get` e `.type`)
 Identificação dos campos da tela utilizando seletores limpos (`data-testid`). Inserção das credenciais para simular o comportamento do usuário e clique no botão de entrar.
 
-<img width="1914" height="1026" alt="cypress config2" src="https://github.com/user-attachments/assets/321ab35c-627b-4fda-8fb2-1556ed4691c7" />
+<img width="1915" height="1029" alt="cypress config final" src="https://github.com/user-attachments/assets/b88e10db-e96b-4ca7-b47e-2e8013fda179" />
+
 
 
 ---
